@@ -6,7 +6,7 @@ A sleek, modern portfolio website showcasing my work as a software engineer and 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **HTML5** — Semantic markup
 - **CSS3** — Modern styling with custom variables & animations
@@ -15,7 +15,7 @@ A sleek, modern portfolio website showcasing my work as a software engineer and 
 
 ---
 
-## ✨ Features
+## Features
 
 - Clean, professional design with a modern layout
 - Fully responsive (mobile, tablet, desktop)
@@ -26,7 +26,7 @@ A sleek, modern portfolio website showcasing my work as a software engineer and 
 
 ---
 
-## 📚 Sections
+## Sections
 
 1. **About** — Bio and professional summary
 2. **Experience** — Work history, internships, and education
@@ -37,7 +37,7 @@ A sleek, modern portfolio website showcasing my work as a software engineer and 
 
 ---
 
-## 🚀 How to Use
+## How to Use
 
 ### View Online
 Open [https://ahmed-io97.github.io/portfolio](https://ahmed-io97.github.io/portfolio) in your browser.
@@ -52,7 +52,7 @@ Open [https://ahmed-io97.github.io/portfolio](https://ahmed-io97.github.io/portf
 
 ---
 
-## 📧 Contact
+## Contact
 
 - **Email:** hello.taukirahmmed@gmail.com
 - **LinkedIn:** [hello-taukir-ahmed](https://www.linkedin.com/in/hello-taukir-ahmed/)
@@ -60,4 +60,4 @@ Open [https://ahmed-io97.github.io/portfolio](https://ahmed-io97.github.io/portf
 
 ---
 
-**Designed & built by Taukir Ahmmed · 2025**
+**Designed & built by Taukir Ahmmed · 2026**
